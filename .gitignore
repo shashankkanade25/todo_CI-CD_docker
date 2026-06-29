@@ -1,0 +1,13 @@
+# Ignore directories
+terraform/
+k8s/
+kustomize/
+DevSecOps/
+
+# Ignore other files if desired
+azure-pipelines.yml
+sonar-project.properties
+README.md
+node_modules/
+deb
+echo
